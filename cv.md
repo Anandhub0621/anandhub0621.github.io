@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Page Title Here"
-permalink: /page-url/
+title: "Curriculum Vitae"
+permalink: /cv/
 ---
 Curriculum Vitae (CV)
 
