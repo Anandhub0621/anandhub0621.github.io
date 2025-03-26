@@ -14,7 +14,7 @@ For inquiries, collaborations, or research discussions, feel free to reach out u
 ## 🔗 Social Media  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therohitanand/)  
 - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=za2Ac2AAAAAJ&hl=en&authuser=2)  
-- [![ResearchGate](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rohit-Anand-8?ev=hdr_xprf)  
+- [![ResearchGate](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rohit-Anand-8?ev=hdr_xprf)  
 
 ## 📍 Location  
 🌍 Columbus, USA  
