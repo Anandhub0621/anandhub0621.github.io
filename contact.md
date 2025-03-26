@@ -4,12 +4,22 @@ title: "Contact"
 permalink: /contact/
 ---
 
-For inquiries, collaborations, or professional discussions, feel free to reach out:
+# 📬 Contact Me
 
-📧 **Email**: [anandrohit0621@email.com] anandrohit0621@email.com
-🔗 **LinkedIn**: [linkedin.com/in/therohitanand] https://www.linkedin.com/in/therohitanand/ 
-📄 **Google Scholar**: [scholar.google.com/citations?user=za2Ac2AAAAAJ&hl=en&authuser=2] https://scholar.google.com/citations?user=za2Ac2AAAAAJ&hl=en&authuser=2
-🐦 **Research Gate**: [researchgate.com/profile/Rohit-Anand-8?ev=hdr_xprf] https://www.researchgate.net/profile/Rohit-Anand-8?ev=hdr_xprf
+For inquiries, collaborations, or research discussions, feel free to reach out using the details below.
 
-For academic collaborations, research discussions, or speaking engagements, please use the subject line "Research Inquiry" when emailing.
+## 📧 Email  
+✉️ [anandrohit0621@gmail.com](mailto:anandrohit0621@gmail.com)  
 
+## 🔗 Social Media  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therohitanand/)  
+- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=za2Ac2AAAAAJ&hl=en&authuser=2)  
+- [![ResearchGate](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rohit-Anand-8?ev=hdr_xprf)  
+
+## 📍 Location  
+🌍 Columbus, USA  
+
+---
+
+### 📝 Want to Collaborate?  
+I am open to collaborations in **Digital/Precision Agriculture, AI, and Research Projects**. Feel free to reach out via email or LinkedIn.
