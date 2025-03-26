@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Page Title Here"
-permalink: /page-url/
+title: "Research & Publications"
+permalink: /research/
 ---
 Research & Publications
 
